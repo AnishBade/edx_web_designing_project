@@ -60,7 +60,21 @@ p6{
     text-align:left;
     
 }
-
+.name{
+    position:relative;
+    left:30px;
+}
+#address{
+    position:relative;
+    left:25px;
+}
+#Age{
+    position:relative;
+    left:10px;
+}
+.button{
+    font-size:10mm;
+}
 img {
     height: 250px;
 }
