@@ -1,0 +1,16 @@
+html{
+    background-color:rgb(207, 240, 180);
+}
+#greeting{
+    color:#fc1606;
+    background-color:purple;
+    font-size:2.5em;
+}
+h3{
+    color:#9908fa;
+    background-color:rgb(164, 240, 65);
+}
+h2{
+    color:rgb(155, 21, 245);
+    background-color:rgb(70, 253, 70);
+}
