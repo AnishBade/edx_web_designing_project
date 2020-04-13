@@ -2,13 +2,15 @@ html{
     background-color:lightgreen;
 }
 h1{
+    font-size:5em;
     color:rgb(100, 17, 253);
     font-weight:bold;
     font-style:italic;
     background-color:rgb(238, 179, 52);
 }
 p1,p2{
+    border:0.5em solid;
     font-size:2em;
     color:darkblue;
-    border:0.5em solid-black;
+  
 }
