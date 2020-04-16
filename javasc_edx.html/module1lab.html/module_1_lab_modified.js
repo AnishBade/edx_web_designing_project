@@ -45,10 +45,5 @@ document.getElementById("modulus").innerHTML+="the remainder of division of  "+v
  
 op1.value="";
 op2.value="";
-
-
-
-
-
 })
 
